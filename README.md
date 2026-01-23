@@ -2,4 +2,4 @@
 
 #### create a list of recipes
 ##### Filipino Dishes
-##### Ingredients and Proceedures
+##### Ingredients and Procedures
